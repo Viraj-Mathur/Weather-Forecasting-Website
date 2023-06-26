@@ -1,4 +1,4 @@
-![Application screenshot](./public/screenshot.png)
+
 
 <br/>
 <br/>
@@ -29,7 +29,7 @@ https://the-weather-forecasting.netlify.app
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+git clone https://github.com/Viraj-Mathur/Weather-Forecasting-Website.git
 
 ```
 
@@ -44,16 +44,6 @@ git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
 
 Check `packages.json` for details
 
-<br/>
-
-## 📄 Todos
-
-- [ ] Styled-components
-- [ ] Convert the entire project to TypeScript
-- [ ] Unit Testing
-- [ ] On launch, find user location weather by utilizing GeolocationAPI/GEOCODING
-- [ ] Celcius/Fahrenheit conversion
-- [ ] Dark/Light Mode
 
 <br/>
 Thank You ☺
